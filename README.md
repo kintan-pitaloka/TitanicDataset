@@ -18,7 +18,8 @@ This project is binary classification problem, where the passenger either surviv
    - C - Cherbourg
    - Q - Queenstown
    - S - Southampton
-Although we know exactly who survived the Titanic, the project is still useful to apply important concepts in data science and machine learning. So here it is!
+   
+Although we know exactly who survived the Titanic, the project is still useful to apply important concepts in data science and machine learning.
 
 Objective: Predict which passenger survived the Titanic 
 
