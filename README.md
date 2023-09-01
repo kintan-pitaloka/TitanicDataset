@@ -1,4 +1,4 @@
-# titanic-dataset
+# Titanic-Dataset
 Predicting the survival of titanic passengers
 This project is probably the rite of passage for everyone getting into data science. I never really enjoyed the movie, but the door could totally fit both Rose and Jack.
 
